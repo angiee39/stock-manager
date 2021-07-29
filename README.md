@@ -1,1 +1,1 @@
-app: https://stockmanager39.herokuapp.com/
+DEMO: https://stockmanager39.herokuapp.com/
